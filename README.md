@@ -13,7 +13,7 @@ Como podrás observar, existen diferentes temas que deberás dominar antes de po
 
 Encuentra las diapositivas en: "git.miguelnieva.com"
 
-[Platzi.com/GIT](http://git.miguelnieva.com)
+[Presentación "Curso de Git"](http://git.miguelnieva.com)
 
 ##Recomendaciones
 
