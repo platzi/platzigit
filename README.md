@@ -42,7 +42,7 @@ El taller que puede funcionarte enormemente es:
 https://platzi.com/clases/git-github/concepto/project-management-con-github/a-workshop-tu-primer-blog-en-github-pages/material/
 
 
-##2. Diseñar un blog con Git
+##2. Diseñar un proyecto con Git
 
 1. Visualizar tu proyecto y enlistarlo en el issues management de GitHub.
 
@@ -51,12 +51,18 @@ Esto implica:
 - Que generes Milestones e issues.
 - Coloques deadlines
 
-2. Subirlo a GitHub. Conforme vayas resolviendo los issues del proyecto, los irás subiendo en diferentes commits con descripciones relacionadas a ellas.
+2. Subirlo a GitHub. 
 
-##3. Realizar un deploy con Git
+Conforme vayas resolviendo los issues del proyecto, los irás subiendo en diferentes commits con descripciones relacionadas a ellas.
 
-1. 
+3. Resolver al menos 10 issues, con 10 commits. Con esto, podrás ver el diseño del proyecto completo.
 
-2.
 
-3.
+##3. Realizar un despliegue ("deploy") con Git
+
+1. Necesitarás un servidor y conectarte vía SSH
+
+2. Subir tu proyecto a GitHub
+
+3. Desplegar con pull y push.
+
