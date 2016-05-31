@@ -11,6 +11,9 @@ Como podrás observar, existen diferentes temas que deberás dominar antes de po
 
 ![Image of Yaktocat](http://i.imgur.com/vRIPuMd.png)
 
+Encuentra las diapositivas en: "git.miguelnieva.com"
+
+[Platzi.com/GIT](http://git.miguelnieva.com)
 
 ##Recomendaciones
 
