@@ -1,0 +1,41 @@
+FORKED.
+Proyectos propios.
+En los trabajos colaborativos es 100% recomendable antes de hacer un push,
+descargarse la ultima version del proyecto y fusionar con tu commit.
+
+Esto se hace con los comandos FETCH (descargar) Y MERGE (fusionar)
+
+- github.com/MiguelNieva/equipo
+Desde github se puede añadir a los colaboradores que con los que quieras
+trabajar...
+
+antes de hacer un push,
+descargarse la ultima version del proyecto y fusionar con tu commit
+
+Proyecto de terceros:
+
+Forked - Propuestas
+
+Existen tres ramas cuando haces trabajo colaborativo para terceros:
+A)  Rama master :=> Lo que trabajas en local
+B)  Rama upstream :=> De donde recibes los cambios del proyecto de terceros
+C)  Rama origin :=> Tu conexion con el repositorio de github.
+
+<u>Ejercicio:</u>
+
+Hacer un forked al repositorio de Ruby On rails.
+
+1.- Crear una replica del repositorio de Ruby On Rails en mi github
+2.- Bajar el repositorio en local tanto el repositorio original como el remoto:
+  - Esto se consigue gracias a los remotos:
+    - git remote origin repositorio-replica de github
+    - git remote upstream repositorio original de github
+    despues hacer un fetch de los dos. Recuerda: *antes de hacer un push,
+    descargarse la ultima version del proyecto y fusionar con tu commit*
+    - fetch origin/master
+    - merge origin master
+    - fetch upstream/master
+    - merge upstream/master
+    - push origin master
+
+Me he quedado en el minuto 15 del tema repositorios remotos (forked)
