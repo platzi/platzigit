@@ -1,0 +1,22 @@
+- Git push: sube el commit al repositorio remoto.
+Ejercicio:
+Crear un nuevo repositorio(ejercicio) publico en github(remoto)
+Conectarse el repositorio local al remoto:
+1ª parte. Crear una llave de conexion.
+  - Crear una llave ssh en local.
+  - En la terminal: $ ssh-keygen -t rsa -b 4096 -C "poner aquí correo electrónico"
+  - cd "Usuario raiz"
+  - cd .ssh
+  - cat id_rsa.pub
+  - Con los pasos anteriores hemos llegado hasta mostrar la llave publica que
+    usaremos en nuestro perfil de github (SSH keys) para conectar el entorno
+    local con el entorno remoto.
+2ª parte. Iteraccion con el repositorio remoto:
+  - Crear un nuevo "proyecto" con un archivo txt
+  - Add and commit.
+  - Crear un remoto con el repositorio donde vamos a subir
+    + git remote add "nombre del remoto, por defecto ORIGIN" "nombre del repo"
+      # git remote add origin "nombre del repo"
+  - Subir mi repositorio local:
+    + git push "nombre del remoto" "rama que quieres subir"
+      # git push origin master
