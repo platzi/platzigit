@@ -1,5 +1,5 @@
 
-#Curso Profesional de Git y GitHub
+# Curso Profesional de Git y GitHub
 
 Puedes encontrar el curso completo en: 
 
@@ -15,7 +15,7 @@ Encuentra las diapositivas en: "git.miguelnieva.com"
 
 [Presentación "Curso de Git"](http://git.miguelnieva.com)
 
-##Recomendaciones
+## Recomendaciones
 
 1. Debes terminar el curso de GIT y GitHub de Platzi, al menos hasta Workflows.
 2. Los desafíos tienden a resolverse con múltiples soluciones. No existe una.
@@ -24,12 +24,12 @@ Encuentra las diapositivas en: "git.miguelnieva.com"
 Puedes usar: Digital Ocean, Webfaction ó Amazon Web Services si tienes con este último mayor nivel.
 
 
-##¿Qué pasa al resolverlos?
+## ¿Qué pasa al resolverlos?
 
 - Tendrás un proyecto en tu portafolio adicional.
 - Le daré un vistazo y te daré mi retrospectiva.
 
-##1. Crea un blog con GitHub Pages
+## 1. Crea un blog con GitHub Pages
 
 La creación de un sitio en GitHub Pages requiere que:
 
@@ -44,7 +44,7 @@ El taller que puede funcionarte enormemente es:
 [Material de GitHub Pages](https://platzi.com/clases/git-github/concepto/project-management-con-github/a-workshop-tu-primer-blog-en-github-pages/material/)
 
 
-##2. Diseñar un proyecto con Git
+## 2. Diseñar un proyecto con Git
 
 1. Visualizar tu proyecto y enlistarlo en el issues management de GitHub.
 
@@ -60,7 +60,7 @@ Conforme vayas resolviendo los issues del proyecto, los irás subiendo en difere
 3. Resolver al menos 10 issues, con 10 commits. Con esto, podrás ver el diseño del proyecto completo.
 
 
-##3. Realizar un despliegue ("deploy") con Git
+## 3. Realizar un despliegue ("deploy") con Git
 
 1. Necesitarás un servidor y conectarte vía SSH
 
